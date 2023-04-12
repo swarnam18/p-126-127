@@ -1,0 +1,34 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
+.note
+{
+  font-size:40px;
+  color: rgb(0, 238, 255);
+  font-family: 'Aguafina Script';
+}
+body
+{
+  background-size: cover;	
+}
+  #song
+  {
+  	font-size:40px;
+    color: rgb(255, 0, 0);
+  	margin: 15px;
+    font-family: 'Alex Brush';
+  }
+    canvas 
+  {
+    border:5px solid rgb(0, 30, 255);
+    border-radius:20px;
+    box-shadow: 5px 5px 5px #00eaff;
+  }
+  h3{
+    font-family: 'Arizonia';
+    font-size:30px;
+    color: rgb(255, 0, 0);
+  }
